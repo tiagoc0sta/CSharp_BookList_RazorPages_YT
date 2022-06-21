@@ -36,6 +36,6 @@ SQL Server
 
 ![image](https://user-images.githubusercontent.com/63982700/174914396-33082c71-3410-4c20-b2bc-b5d1c7605650.png)
 
-![image](https://user-images.githubusercontent.com/63982700/174914508-068c3352-3011-4634-b3af-17a5682db6a6.png)
+![image](https://user-images.githubusercontent.com/63982700/174915550-40d3298f-b454-4abc-9de7-90c91453d0e7.png)
 
 
