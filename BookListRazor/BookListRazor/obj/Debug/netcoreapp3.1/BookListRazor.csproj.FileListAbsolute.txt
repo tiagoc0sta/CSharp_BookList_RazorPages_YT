@@ -375,3 +375,4 @@ C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_Razor_C#\CSharp
 C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_Razor_C#\CSharp_BookList_RazorPages_YT\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_Razor_C#\CSharp_BookList_RazorPages_YT\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
 C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_Razor_C#\CSharp_BookList_RazorPages_YT\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Portfolio\C# - .Net\YouTube_BookList_Razor_C#\CSharp_BookList_RazorPages_YT\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Upsert.cshtml.g.cs
